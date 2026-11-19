@@ -1,0 +1,1 @@
+{"description":"Deterministic mini agent loop (zero deps) for studying tool validation, failure classification, guardrails and prompt injection.","engines":{"node":">=22"},"license":"MIT","name":"drill-12-agent-harness","private":true,"scripts":{"demo":"node scripts/demo-injection.js","test":"node --test tests/harness.test.js"},"type":"commonjs","version":"1.0.0"}
